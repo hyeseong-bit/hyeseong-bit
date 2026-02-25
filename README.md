@@ -38,7 +38,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hyeseong-bit&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeseong-bit&theme=tokyo-night"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_ID/YOUR_GITHUB_ID/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/hyeseong-bit/hyeseong-bit/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
