@@ -1,6 +1,15 @@
-<!-- 상단 배너 -->
+<h1 align="center">Hi, I'm 혜성 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:6A5ACD&height=200&section=header&text=HYESUNG's%20GITHUB&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  데이터/백엔드 공부중 · SQLD 준비중 · 꾸준히 성장중
+</p>
+
+<p align="center">
+  <a href="https://github.com/아이디">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:이메일">
+    <img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <!-- 타이핑 효과 -->
